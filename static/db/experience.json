@@ -1,0 +1,51 @@
+{
+  "experiences": [
+    {
+      "company": "Therap (BD) Ltd.",
+      "position": "Software Engineer II",
+      "location": "Dhaka, Bangladesh",
+      "duration": "Jun 2025 - Present",
+      "responsibilities": [
+        "Investigated the application of Large Language Models (LLMs) in complex enterprise data environments, designing an AI-powered Data Assistant capable of interpreting natural language queries and analyzing millions of healthcare claims.",
+        "Explored context engineering, knowledge representation, and information retrieval techniques to improve LLM understanding of large-scale software systems and complex database schemas.",
+        "Investigated automated source code understanding and knowledge extraction using LLMs, developing an intelligent code documentation system with hierarchical knowledge representation and incremental change detection.",
+        "Designed and evaluated context-aware AI development workflows using Model Context Protocol (MCP) and retrieval-based techniques, achieving a 40% reduction in development time.",
+        "Explored secure LLM-generated SQL execution in multi-tenant environments, developing query validation and isolation mechanisms to prevent unauthorized data access.",
+        "Investigated scalable data processing and analytical architectures using Oracle, DuckDB, ClickHouse, parallel execution, and optimized data retrieval techniques.",
+        "Analyzed historical healthcare billing data and designed an advanced Aging Report Generation System to improve financial reporting accuracy across more than 30,000 healthcare providers.",
+        "Investigated performance bottlenecks in enterprise applications, applying query optimization and architectural improvements to reduce execution time by 50-60%.",
+        "Explored AI-assisted software development methodologies, including specification-driven development, automated documentation, and LLM usage analysis."
+      ]
+    },
+    {
+      "company": "Therap (BD) Ltd.",
+      "position": "Software Engineer",
+      "location": "Dhaka, Bangladesh",
+      "duration": "Jun 2023 - May 2025",
+      "responsibilities": [
+        "Analyzed complex enterprise software requirements and investigated efficient approaches to designing scalable, reliable backend systems using Java, Spring MVC, and Oracle.",
+        "Investigated database performance challenges, examining SQL execution patterns, data access strategies, and schema structures to identify optimization opportunities.",
+        "Applied algorithmic problem-solving and analytical reasoning to develop efficient solutions for healthcare billing, data processing, and enterprise information management.",
+        "Explored information retrieval and data organization techniques while developing advanced search, archiving, and large-scale data processing functionalities.",
+        "Investigated automation opportunities in enterprise workflows, developing scheduled processing mechanisms and structured data import/export solutions.",
+        "Analyzed software behavior, identified potential defects, and evaluated alternative implementation strategies through debugging, code reviews, and systematic testing.",
+        "Collaborated with cross-functional engineering teams to investigate complex technical problems and improve the reliability, maintainability, and performance of enterprise applications."
+      ]
+    },
+    {
+      "company": "Therap (BD) Ltd.",
+      "position": "Associate Software Engineer",
+      "location": "Dhaka, Bangladesh",
+      "duration": "Jun 2022 - May 2023",
+      "responsibilities": [
+        "Developed a strong foundation in computational problem-solving, object-oriented programming, software architecture, and algorithmic thinking through intensive training in Java, Spring, and Hibernate.",
+        "Studied software design principles, architectural patterns, and development methodologies to understand their implications for system maintainability, extensibility, and performance.",
+        "Applied analytical problem-solving techniques to the design and development of a comprehensive Library Management System.",
+        "Examined legacy software implementations and explored refactoring strategies using modern Java features and established software engineering principles.",
+        "Investigated software defects through debugging, code analysis, and systematic testing to understand application behavior and identify potential improvements.",
+        "Gained practical experience in understanding complex software architectures, analyzing technical requirements, and evaluating implementation alternatives.",
+        "Developed foundational experience in enterprise software development, which later supported my growing interests in intelligent systems, automated software engineering, and AI-driven computing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "education": [
+    {
+      "institution": "University of Rajshahi",
+      "degree": "Bachelor of Science in Computer Science and Engineering",
+      "duration": "2017 - 2022",
+      "cgpa": "3.30 / 4.00",
+      "location": "Rajshahi, Bangladesh",
+      "coursework": [
+        "Artificial Intelligence",
+        "Data Structures and Algorithms",
+        "Database Management Systems",
+        "Computer Networks",
+        "Operating Systems",
+        "Object-Oriented Programming",
+        "Software Engineering",
+        "System Design",
+        "Software Architecture",
+        "Web Technologies",
+        "Software Project Management"
+      ],
+      "activities": [
+        "Active member of the university Programming Club",
+        "Represented university in ACM ICPC Dhaka Regional (2019, 2020, 2021)",
+        "Volunteered at university-organized technology events"
+      ]
+    },
+    {
+      "institution": "Bogra Cantonment Public School and College",
+      "degree": "Higher Secondary Certificate (HSC), Science",
+      "duration": "2014 - 2016",
+      "cgpa": "5.00 / 5.00",
+      "location": "Bogra, Bangladesh",
+      "coursework": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology",
+        "Information & Communication Technology"
+      ],
+      "activities": [
+        "Member of the Science Club"
+      ]
+    },
+    {
+      "institution": "Savar Cantonment Public School and College",
+      "degree": "Secondary School Certificate (SSC), Science",
+      "duration": "2012 - 2014",
+      "cgpa": "5.00 / 5.00",
+      "location": "Dhaka, Bangladesh",
+      "coursework": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology"
+      ],
+      "activities": [
+        "Member of the Science Club",
+        "Participated in science fairs and sports events"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "interests": [
+    {
+      "title": "AI for Software Engineering",
+      "description": "Investigating how large language models and AI agents can augment, automate, and transform software engineering practices. This includes automated code documentation, intelligent code generation, AI-assisted debugging, and the broader question of how AI changes the way software is designed, built, and maintained. My work on an LLM-powered code documentation system and context-aware AI development workflows at Therap has demonstrated both the potential and the open challenges in this space.",
+      "keywords": ["AI for SE", "Code Generation", "LLM-Assisted Development", "Automated Documentation", "MCP"]
+    },
+    {
+      "title": "Reliable and Trustworthy AI Agents",
+      "description": "Exploring the reliability, safety, and correctness guarantees needed when AI agents operate as autonomous components within production software systems. My experience building a multi-tenant AI Data Assistant that generates SQL queries from natural language has highlighted critical challenges around hallucination prevention, output verification, security enforcement, and graceful failure handling in agentic systems.",
+      "keywords": ["AI Agents", "Reliability", "Trustworthy AI", "Hallucination Prevention", "Safety"]
+    },
+    {
+      "title": "Natural Language Interfaces for Data Systems",
+      "description": "Researching the design and safety challenges of enabling natural-language access to structured data systems. My work building a zero-data-leakage multi-tenant NL-to-SQL layer over millions of healthcare claims has surfaced critical open questions around semantic parsing accuracy, security guarantees, user intent disambiguation, and the gap between research benchmarks and production requirements.",
+      "keywords": ["NL-to-SQL", "Semantic Parsing", "Data Analytics", "Multi-Tenant Security", "Healthcare"]
+    },
+    {
+      "title": "Context Engineering for LLM-based Systems",
+      "description": "Studying how structured context management, retrieval-augmented generation, and memory architectures can improve the reliability and effectiveness of LLM-powered tools. I designed and deployed MCP-connected context-aware workflows that reduced development time by 40% on a large-scale legacy codebase, demonstrating the practical impact of well-engineered context pipelines on AI agent performance.",
+      "keywords": ["Context Engineering", "RAG", "MCP", "Agentic Workflows", "Developer Tooling"]
+    }
+  ]
+}

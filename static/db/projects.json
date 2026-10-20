@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "title": "AI-Powered Natural Language Data Assistant",
+      "description": "Designed and built a production NL-to-SQL system enabling natural-language querying over millions of healthcare claims. The system investigates key research challenges: semantic parsing accuracy for complex analytical queries, zero-data-leakage security guarantees in multi-tenant SQL generation, and sub-second query optimization for real-time analytics. Deployed at Therap (BD) Ltd., serving thousands of healthcare providers across the United States.",
+      "techStack": ["Java 21", "Spring Boot", "DuckDB", "Oracle", "LLM Integration"],
+      "features": [
+        "Investigated reliability of LLM-generated SQL queries in a production multi-tenant healthcare system",
+        "Designed a zero-data-leakage SQL security model enforcing strict tenant isolation under adversarial natural-language inputs",
+        "Engineered sub-second analytical query execution over datasets spanning millions of healthcare claims"
+      ],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Context-Aware AI Development Workflow (MCP)",
+      "description": "Engineered a context engineering pipeline connecting AI coding assistants to a structured code knowledge base via Model Context Protocol (MCP). This project explores how structured context management and retrieval-augmented generation can improve AI agent reliability in software development. Achieved a 40% reduction in development time on a large-scale legacy monolith.",
+      "techStack": ["MCP", "LangGraph", "RAG", "Python", "Knowledge Graphs"],
+      "features": [
+        "Designed and evaluated context engineering strategies for AI-assisted software development on legacy codebases",
+        "Explored the architectural implications of MCP as a protocol for human-AI collaborative development workflows",
+        "Demonstrated 40% reduction in development time through improved context retrieval and agent grounding"
+      ],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "LLM-Powered Automated Code Documentation System",
+      "description": "Built a full-stack automated program comprehension pipeline that generates wiki-style documentation from source code using large language models. Investigates the challenge of maintaining accurate, up-to-date documentation through incremental change detection and semantic embedding-based search.",
+      "techStack": ["Python", "FastAPI", "React", "Oracle 26ai", "Gemini"],
+      "features": [
+        "Developed an LLM-powered documentation generation pipeline with incremental change detection for large codebases",
+        "Integrated vector embeddings (Oracle 26ai) for semantic search across auto-generated documentation",
+        "Built a browser-based wiki interface for navigating generated documentation articles"
+      ],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Autonomous Maze Exploration and Shortest-Path Navigation Robot",
+      "description": "Designed and implemented an Arduino-based intelligent assistant robot capable of autonomous maze exploration and shortest-path navigation. The system combines backtracking-based maze traversal with BFS/dynamic programming for optimal path computation, demonstrating algorithmic problem-solving in a physical robotics context.",
+      "techStack": ["Arduino", "NodeMCU", "Python", "Flask", "C#", "Unity", "Dynamic Programming"],
+      "features": [
+        "Designed a backtracking-based maze exploration algorithm for autonomous robotic navigation",
+        "Implemented BFS and dynamic programming optimization for shortest-path computation",
+        "Built a real-time navigation simulation and visualization interface using C# and Unity"
+      ],
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Open-Source Contributions",
+      "description": "Active contributor to open-source projects in the Java ecosystem. Contributed to stablyai/orca and java-design-patterns, and created the orca repository. These contributions demonstrate engagement with the broader software engineering community and collaborative development practices.",
+      "techStack": ["Java", "Design Patterns", "Open Source", "Git"],
+      "features": [
+        "Contributed to stablyai/orca - an open-source project in the AI/ML ecosystem",
+        "Contributed to iluwatar/java-design-patterns - a widely-used educational resource for software design patterns",
+        "Created and maintained the orca repository for independent exploration and experimentation"
+      ],
+      "github": "https://github.com/NiazBinSiraj",
+      "demo": ""
+    }
+  ]
+}

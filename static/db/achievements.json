@@ -1,0 +1,76 @@
+{
+  "honors": [
+    {
+      "title": "Champion, National Round - Research Paper Presentation",
+      "issuer": "Children Science Congress",
+      "year": "2014",
+      "description": "Awarded first place in the Research Paper Presentation at the national round of the Children Science Congress.",
+      "category": "award",
+      "certificateUrl": "https://drive.google.com/file/d/1WInBj_b0Z9crJZyg1woETVxiogOylctE/view?usp=sharing"
+    },
+    {
+      "title": "Idea Showcasing - Poster Presentation at IC⁴ME² 2021",
+      "issuer": "University of Rajshahi, Faculty of Engineering",
+      "year": "2021",
+      "description": "Presented research ideas at the 6th International Conference on Computer, Communication, Chemical, Materials, and Electronic Engineering.",
+      "category": "award",
+      "certificateUrl": "https://drive.google.com/file/d/1WBTtkvz1QzEzi1KEjczI0z_nZC8gSWp7/view?usp=sharing"
+    },
+    {
+      "title": "ACM ICPC Dhaka Regional Onsite Finalist",
+      "issuer": "ACM International Collegiate Programming Contest",
+      "year": "2019",
+      "description": "Ranked in top 120 among Bangladeshi participants in the ACM ICPC Dhaka Regional Onsite round as part of team RU_Baby_Step_Giant_Step, representing the University of Rajshahi.",
+      "category": "competition",
+      "certificateUrl": ""
+    },
+    {
+      "title": "Google Code Jam - Top 5901 out of 40,000+",
+      "issuer": "Google",
+      "year": "2020",
+      "description": "Achieved a global ranking of 5901st out of over 40,000 participants in Google's international programming competition.",
+      "category": "competition",
+      "certificateUrl": ""
+    },
+    {
+      "title": "Certificate of Appreciation - Unity 3D Workshop",
+      "issuer": "The American Center, U.S. Embassy Dhaka",
+      "year": "2020",
+      "description": "Recognized for facilitating a workshop on Game Development using the Unity 3D Game Engine at the American Center.",
+      "category": "award",
+      "certificateUrl": "https://drive.google.com/file/d/1ENUY9V__nKUHVVgic3s1VGCznPb_i5Vy/view?usp=sharing"
+    },
+    {
+      "title": "ACM ICPC Dhaka Regional Online Preliminary - Rank 118",
+      "issuer": "ACM International Collegiate Programming Contest",
+      "year": "2020",
+      "description": "Represented the University of Rajshahi in the ACM ICPC Dhaka Regional Online Preliminary round as part of team RU_Baby_Step_Giant_Step.",
+      "category": "competition",
+      "certificateUrl": ""
+    },
+    {
+      "title": "ACM ICPC Dhaka Regional Online Preliminary - Rank 137",
+      "issuer": "ACM International Collegiate Programming Contest",
+      "year": "2019",
+      "description": "Represented the University of Rajshahi in the ACM ICPC Dhaka Regional Online Preliminary round.",
+      "category": "competition",
+      "certificateUrl": ""
+    },
+    {
+      "title": "ACM ICPC Dhaka Regional Online Preliminary - Rank 247",
+      "issuer": "ACM International Collegiate Programming Contest",
+      "year": "2021",
+      "description": "Represented the University of Rajshahi in the ACM ICPC Dhaka Regional Online Preliminary round.",
+      "category": "competition",
+      "certificateUrl": ""
+    },
+    {
+      "title": "SRBD Coding Contest - Rank 89",
+      "issuer": "SRBD Coding Contest",
+      "year": "2018",
+      "description": "Achieved top 89 ranking in this national-level programming competition.",
+      "category": "competition",
+      "certificateUrl": ""
+    }
+  ]
+}

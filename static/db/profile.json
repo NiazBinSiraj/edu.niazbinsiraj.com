@@ -1,0 +1,26 @@
+{
+  "name": "Niaz Bin Siraj",
+  "title": "Prospective PhD Student | Artificial Intelligence & Intelligent Systems",
+  "tagline": "Investigating how intelligent agents and large language models can be embedded into software systems as reliable, first-class architectural components",
+  "bio": [
+    "I am seeking PhD opportunities in Computer Science, with a focus on AI for Software Engineering, reliable AI agents, and intelligent system design. My research motivation stems from 4+ years of hands-on experience architecting AI-powered production systems at Therap (BD) Ltd., where I have confronted open research challenges, including the reliability of LLM-generated database queries, security guarantees in natural-language-to-SQL translation, and the architectural implications of embedding AI agents into large-scale legacy codebases.",
+    "At Therap, I designed an AI-powered Data Assistant that translates natural-language queries into SQL over millions of healthcare claims with zero-data-leakage multi-tenant isolation. I also built an LLM-powered code documentation system with incremental change detection, and engineered context-aware AI development workflows using MCP (Model Context Protocol) that reduced development time by 40% on a large-scale legacy monolith. These experiences have shaped my conviction that the most impactful research in this space requires deep engagement with real production constraints.",
+    "I hold a Bachelor of Science in Computer Science and Engineering from the University of Rajshahi (CGPA 3.30/4.00). I am particularly drawn to research at the intersection of AI-native software architecture, context engineering for agentic workflows, and natural language interfaces for data systems. I am eager to contribute to both the theoretical foundations and practical applications of intelligent software systems under rigorous academic supervision."
+  ],
+  "researchStatement": "Large language models are being embedded into production software systems faster than we understand how to make them reliable. My research focuses on the gap between what LLMs can generate and what production systems can safely execute - specifically, how we ensure correctness, security, and trustworthiness when AI agents autonomously interact with databases, codebases, and enterprise workflows at scale.",
+  "whyPhd": [
+    "Over 4+ years building AI-powered production systems at Therap, I have repeatedly encountered research questions that industry alone cannot answer. When I built a natural-language-to-SQL system serving millions of healthcare claims, I discovered that existing NL-to-SQL benchmarks do not capture the security, multi-tenancy, and adversarial robustness challenges of real-world deployment. When I designed an LLM-powered documentation system for a large legacy codebase, I found that current program comprehension techniques struggle with the scale and complexity of enterprise software.",
+    "These are not engineering problems waiting for better tools. They are open research problems requiring systematic investigation, principled evaluation, and new theoretical frameworks. I want a PhD because I want to move from building systems that work to understanding why they work, when they fail, and how to make them fundamentally more reliable.",
+    "I am seeking a research environment where I can combine my deep production experience with rigorous academic methodology to advance our understanding of how intelligent agents can be trusted as first-class components of critical software systems."
+  ],
+  "photo": "static/images/profile.jpg",
+  "cvUrl": "static/files/cv.pdf",
+  "links": {
+    "email": "niazbinsiraj@gmail.com",
+    "github": "https://github.com/NiazBinSiraj",
+    "linkedin": "https://linkedin.com/in/niazbinsiraj",
+    "scholar": "",
+    "orcid": ""
+  },
+  "location": "Dhaka, Bangladesh"
+}

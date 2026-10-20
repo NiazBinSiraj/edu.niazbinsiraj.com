@@ -1,0 +1,52 @@
+{
+  "publications": [
+    {
+      "title": "Design and Development of an Arduino-Based Intelligent Personal Assistant Robot",
+      "authors": ["Niaz Bin Siraj"],
+      "venue": "Undergraduate Final-Year Research Project",
+      "venueFullName": "Department of Computer Science and Engineering, University of Rajshahi",
+      "year": "2022",
+      "type": "thesis",
+      "topic": "Autonomous navigation and intelligent pathfinding in robotic systems - investigating how robots can independently explore unknown environments, build spatial maps, and compute optimal paths using graph algorithms, recursive backtracking, and BFS-based shortest-path planning.",
+      "supervisor": "Prof. Shamim Ahmad, Department of Computer Science and Engineering, University of Rajshahi",
+      "researchAreas": ["Artificial Intelligence", "Autonomous Robotics", "Algorithm Design", "Graph Theory", "Pathfinding", "Computer Vision", "Intelligent Systems"],
+      "abstract": "This research project investigated autonomous navigation, environmental exploration, spatial mapping, and intelligent object manipulation in robotic systems. The objective was to develop a prototype of an intelligent personal assistant robot capable of independently exploring unfamiliar environments, constructing a two-dimensional representation of its surroundings, identifying objects, and navigating toward specified destinations. My primary contribution focused on robot navigation, maze exploration, and pathfinding algorithms. I investigated recursive backtracking techniques for systematic maze exploration and implemented Breadth-First Search (BFS) for shortest-path computation within the generated environmental map. The navigation methodology involved representing the environment as a two-dimensional grid, identifying accessible paths and obstacles, and maintaining spatial information to support subsequent navigation tasks. The broader project combined embedded robotics, computer vision, and machine learning. The object recognition component investigated Convolutional Neural Networks (CNNs), transfer learning, and image preprocessing, evaluating architectures including DenseNet, VGG16, and VGG19. The proposed system incorporated Arduino-based hardware, infrared sensors, wireless communication, a robotic arm, and a Python Flask backend.",
+      "contributions": [
+        "Investigated autonomous maze exploration using recursive backtracking and graph traversal algorithms.",
+        "Implemented BFS-based shortest-path planning for navigation within a mapped environment.",
+        "Developed a grid-based environmental representation for obstacle identification and navigation.",
+        "Explored approaches to spatial memory and efficient object-location retrieval.",
+        "Contributed to a multidisciplinary prototype integrating algorithmic navigation, embedded systems, and intelligent object recognition."
+      ],
+      "significance": "This project established my foundational interest in autonomous intelligent systems, graph algorithms, spatial reasoning, and computational problem-solving. It also motivated my continued exploration of how intelligent systems can perceive their environments, maintain contextual knowledge, and make decisions autonomously.",
+      "technologies": ["Python", "Flask", "C++", "Arduino", "Recursive Backtracking", "Breadth-First Search", "Graph Algorithms", "2D Mapping", "Embedded Systems"],
+      "status": "Undergraduate research prototype",
+      "links": {}
+    },
+    {
+      "title": "Idea Showcasing with Poster Presentation at IC\u2074ME\u00b2 2021",
+      "authors": ["Niaz Bin Siraj"],
+      "venue": "IC\u2074ME\u00b2 2021",
+      "venueFullName": "6th International Conference on Computer, Communication, Chemical, Materials, and Electronic Engineering, Faculty of Engineering, University of Rajshahi",
+      "year": "2021",
+      "type": "poster",
+      "topic": "Autonomous maze exploration and shortest-path navigation for an Arduino-based intelligent assistant robot, combining recursive backtracking, BFS pathfinding, grid-based spatial mapping, and embedded systems with intelligent object recognition.",
+      "abstract": "Presented a poster on the design and development of an Arduino-based intelligent personal assistant robot at the 6th International Conference on Computer, Communication, Chemical, Materials, and Electronic Engineering (IC\u2074ME\u00b2 2021). The poster showcased the autonomous navigation, maze exploration using recursive backtracking, BFS-based shortest-path planning, and grid-based environmental mapping components of the undergraduate research project. The presentation highlighted approaches to spatial reasoning, graph-based pathfinding, and multidisciplinary integration of algorithmic navigation with embedded systems and intelligent object recognition.",
+      "links": {
+        "certificate": "https://drive.google.com/file/d/1WBTtkvz1QzEzi1KEjczI0z_nZC8gSWp7/view?usp=sharing"
+      }
+    },
+    {
+      "title": "Research Paper Presentation - National Round, Children Science Congress",
+      "authors": ["Niaz Bin Siraj"],
+      "venue": "Children Science Congress",
+      "venueFullName": "Children Science Congress, National Round",
+      "year": "2014",
+      "type": "paper",
+      "abstract": "Awarded first place in the Research Paper Presentation at the national round of the Children Science Congress.",
+      "links": {
+        "certificate": "https://drive.google.com/file/d/1WInBj_b0Z9crJZyg1woETVxiogOylctE/view?usp=sharing"
+      }
+    }
+  ]
+}

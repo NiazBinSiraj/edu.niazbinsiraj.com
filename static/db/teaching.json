@@ -1,0 +1,39 @@
+{
+  "teaching": [
+    {
+      "title": "C/C++ Programming Trainer",
+      "organization": "Talent IT & ICT Training Center, Rajshahi",
+      "year": "2018 - 2021",
+      "description": "Designed curriculum and delivered structured C/C++ programming courses to students over 3+ years. Covered foundational topics including data types, control structures, functions, pointers, and object-oriented programming. Guided students through hands-on problem-solving exercises and competitive programming preparation.",
+      "type": "teaching"
+    },
+    {
+      "title": "Workshop Facilitator - Game Development with Unity 3D",
+      "organization": "The American Center, U.S. Embassy Dhaka",
+      "year": "2020",
+      "description": "Facilitated a hands-on workshop introducing participants to game development fundamentals using the Unity 3D game engine. Covered core concepts including physics simulation, scripting in C#, and iterative design principles.",
+      "type": "workshop"
+    },
+    {
+      "title": "Engineering Mentor",
+      "organization": "Therap (BD) Ltd.",
+      "year": "2023 - Present",
+      "description": "Mentoring 5+ junior software engineers in backend architecture patterns, code review best practices, system design thinking, and professional development. Providing structured guidance on complex problem decomposition and production-grade code quality.",
+      "type": "mentoring"
+    },
+    {
+      "title": "Science Outreach Volunteer",
+      "organization": "SPSB (Society for the Popularization of Science, Bangladesh), Rajshahi Chapter",
+      "year": "2017 - 2020",
+      "description": "Organized and volunteered at science olympiads, astronomy workshops, science schools, and public lectures to promote scientific literacy among students and the general public. Contributed to outreach activities spanning 2 years and 9 months.",
+      "type": "outreach"
+    },
+    {
+      "title": "Science Writer & Campus Ambassador",
+      "organization": "Zero to Infinity Magazine",
+      "year": "2014 - 2016",
+      "description": "Served as campus ambassador and contributed science articles to popular Bengali science magazines including 'Zero to Infinity', 'Pi Zero to Infinity', and 'Health Zero to Infinity'. Communicated scientific concepts to a broad public audience through accessible writing.",
+      "type": "outreach"
+    }
+  ]
+}
